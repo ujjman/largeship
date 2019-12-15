@@ -1,0 +1,11 @@
+{
+    "id" : "largeship",
+    "version" : "0.1.0",
+    "displayName" : "largeship Faction",
+    "description" : "Content related to largeship Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
